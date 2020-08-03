@@ -1,0 +1,29 @@
+{
+  "name": "sprint12",
+  "version": "0.0.1",
+  "description": "praxis node.js & express.js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogozhkina/sprint-12-node.js-express.js.git"
+  },
+  "author": "rogozhkina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogozhkina/sprint-12-node.js-express.js/issues"
+  },
+  "homepage": "https://github.com/rogozhkina/sprint-12-node.js-express.js#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
