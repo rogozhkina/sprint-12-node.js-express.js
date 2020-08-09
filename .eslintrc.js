@@ -4,9 +4,7 @@ module.exports = {
     commonjs: true,
     es2020: true,
   },
-  extends: [
-    'airbnb-base',
-  ],
+  extends: 'airbnb-base',
   parserOptions: {
     ecmaVersion: 11,
   },
